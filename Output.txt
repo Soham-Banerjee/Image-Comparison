@@ -1,0 +1,5 @@
+Similarity between
+
+Original and Different angle (pic1 and pic2) : 0.653
+Original and Drawn Over (pic1 and pic3) : 0.966
+Original and Red Rectangle (pic1 and pic4) : 0.926
